@@ -51,7 +51,7 @@ body {
 
 /* VERIFY SECTION */
 .verify-section {
-    width: 100%;
+    width: 120%;
     display: flex;
     justify-content: center;
     padding: 80px 0;
