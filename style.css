@@ -17,7 +17,7 @@ body {
 }
 
 .logo {
-    width: 105px; /* 1.5x original */
+    width: 136px;
     height: auto;
 }
 
@@ -57,9 +57,8 @@ body {
     padding: 80px 0;
     background: #eef3f8;
 }
-
 .verify-card {
-    width: 40%; /* 25% smaller */
+    width: 50%;
     background: white;
     border-radius: 16px;
     padding: 60px;
@@ -87,7 +86,7 @@ body {
 }
 
 .item {
-    font-size: 24px;
+    font-size: 22px;
     display: flex;
     align-items: center;
     gap: 15px;
